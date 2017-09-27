@@ -1,0 +1,35 @@
+typography_spectrum: 0.7037929657731427
+color:
+  brandStrength: 0.2514952687237707
+  lightness: 0.8990236770113617
+  saturation: 0.35006087045738526
+  rhythmicContrast: 0.6843534581010037
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+layout_spectrum: 0.059646689747506296
+name: ixplore
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Irvine Day
+    id: 5f24dde2-1296-43b7-a7cd-05c93769b299
+    type: content
+  - name: Foodie Day
+    id: 7e7c87e9-c014-4b3e-af28-1586954b39bc
+    type: content
+  - name: Beach Day
+    id: 0da13100-d868-4f08-9512-fda0044fd1a7
+    type: content
+title: ixplore
+content: []
+description: ''
+github: true
